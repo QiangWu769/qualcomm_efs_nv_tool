@@ -21,3 +21,9 @@ All tested devices are running Android 11. We will gradually add compatibility f
 
 ## Source Code
 The source code will also be fully published in this repository.
+
+<img width="315" alt="image" src="https://github.com/user-attachments/assets/6af01797-8569-49fc-af13-78ac74e10fd9" />
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/254f96cb-31db-43c5-a57c-ee6a73f0e4f7" />
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/28af78c2-c73e-40f1-bd18-f74f90a15336" />
+
+
